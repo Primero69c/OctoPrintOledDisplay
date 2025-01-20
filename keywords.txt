@@ -1,12 +1,11 @@
 
 
 OctoPrintOledDisplay	KEYWORD1	Library for integrating OctoPrint with OLED displays
-PrinterManager	        KEYWORD1	Handles communication with OctoPrint API
-OledDisplay	        	KEYWORD1	Manages the OLED screen display logic
+PrinterManager	      KEYWORD1	Handles communication with OctoPrint API
 
 setup	                KEYWORD2	Initializes the OLED display
 updateStatus	        KEYWORD2	Updates the printer's status on the display
 addScreen	            KEYWORD2	Adds a custom screen to toggle between
 showDefaultScreen	    KEYWORD2	Displays the default printer status screen
-showMessage	            KEYWORD2	Displays a custom message on the screen
+showMessage	          KEYWORD2	Displays a custom message on the screen
 getStatus	            KEYWORD2	Retrieves the printer's current status
