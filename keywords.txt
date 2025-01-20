@@ -1,5 +1,4 @@
-# Syntax coloring for OctoPrintOledDisplay Library
-# Format: <key> <tab> <type> <tab> <description>
+
 
 OctoPrintOledDisplay	KEYWORD1	Library for integrating OctoPrint with OLED displays
 PrinterManager	        KEYWORD1	Handles communication with OctoPrint API
